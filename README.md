@@ -1,6 +1,6 @@
-# animation_tut_prev
+# Flutter SDK: Animations Tutorial
 
-A new Flutter project.
+You can find the full video tutorial here: *Yet to be released*
 
 ## Getting Started
 
