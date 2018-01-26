@@ -1,6 +1,6 @@
 # Flutter SDK: Animations Tutorial
 
-You can find the full video tutorial here: *Yet to be released*
+You can find the full video tutorial here: https://youtu.be/82PoFu7D48E
 
 ## Getting Started
 
